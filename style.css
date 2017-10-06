@@ -64,7 +64,6 @@ html {
 }
 .con-p-type1{
 	margin-bottom: 30px;
-
 }
 
 .con-img-t1 {
@@ -81,5 +80,8 @@ html {
 	list-style-type: disc;
 }
 .list-t1  li {
+	margin-bottom: 10px;
+}
+.q10{
 	margin-bottom: 10px;
 }
